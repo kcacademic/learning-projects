@@ -9,7 +9,7 @@
 		<version>2.1.6.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.baeldung.spring</groupId>
+	<groupId>com.learning.spring</groupId>
 	<artifactId>learning-spring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>learning-spring</name>
