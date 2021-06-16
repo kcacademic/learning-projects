@@ -97,7 +97,7 @@ public class CompletableFutureUsage {
 		}).thenApply(name -> {
 			return "Hello " + name;
 		}).thenApply(greeting -> {
-			return greeting + ", Welcome to Sapient";
+			return greeting + ", Welcome to Kchandrakant";
 		});
 
 		System.out.println(welcomeText.get());
